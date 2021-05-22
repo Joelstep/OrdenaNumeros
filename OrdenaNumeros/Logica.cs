@@ -13,7 +13,8 @@ namespace OrdenaNumeros
     {//Atributos propios del juego
         private int[,] matrizValores;
         private int posicionFila, posicionColumna;
-
+        //cambio esto 
+        //y esto
 
         public int PosicionFila
         {
