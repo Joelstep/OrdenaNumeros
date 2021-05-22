@@ -88,8 +88,8 @@ namespace Proyecto_Bonificación
         public void Test_Confirmacion_de_segumiento_del_juego()
         {
 
-            Form1 Interfaz = new Form1();
             Logica Proceso = new Logica();
+            Form1 Interfaz = new Form1();
 
             int valoresperado = 0;
 
